@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "led": "github:ldgt123/led-extension#4533afbb6a1cba307952dd48227fb41c388a2994"
     },
     "files": [
         "main.blocks",
